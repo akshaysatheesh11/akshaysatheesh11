@@ -11,7 +11,7 @@ I'm Akshay Satheesh, currently transitioning into Software Engineering and based
 - [**Portfolio Website**](): A personal portfolio website built with React and Node.js, showcasing my projects and skills.
 
 ### 🌐 Find Me Around the Web
-- [LinkedIn](https:www.linkedin.com/in/akshay-satheesh-8826b41b7)
+- [LinkedIn](www.linkedin.com/in/akshay-satheesh-8826b41b7)
 - [Email](mailto:akshaysatheesh11@gmail.com)
 
 ### ✨ Fun Fact
