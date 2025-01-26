@@ -4,7 +4,7 @@ I'm Akshay Satheesh, currently transitioning into Software Engineering and based
 
 ### 🚀 Skills
 - **Programming Languages:** JavaScript, Python, Java
-- **Web Development:** HTML, CSS, React, Node.js
+- **Web Development:** HTML, CSS, React.js, Node.js
 - **DevOps Tools:** Git
 
 ### 🌟 Featured Projects
